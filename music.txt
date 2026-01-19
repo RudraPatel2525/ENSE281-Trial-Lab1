@@ -1,1 +1,1 @@
-artist : a good one 
+artist : a good one.
